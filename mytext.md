@@ -8,4 +8,7 @@ Untracked files:
     mytext.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
-ÐÞ¸Ä1
+
+a=1
+
+c=1
