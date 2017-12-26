@@ -12,3 +12,5 @@ nothing added to commit but untracked files present (use "git add" to track)
 a=1
 
 c=1
+
+d=1
